@@ -9,7 +9,7 @@
   z-index: 1;
 }
 .about-img:before {
-  background-color: #f90;
+  background-color: #ffd700;
   border-radius: 2px;
   transform: skew(-20deg, 0deg);
   content: "";
@@ -84,7 +84,7 @@
   width: 140px;
 }
 .about-info li h2 a {
-  color: #f90;
+  color: #ffd700;
   font-weight: 700;
   margin: 0;
 }
@@ -120,7 +120,7 @@
   border-radius: 5px;
 }
 .video-box .play-btn {
-  background-color: #f90;
+  background-color: #ffd700;
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -271,7 +271,7 @@
   overflow: hidden;
 }
 .service-shape {
-  background-color: #f90;
+  background-color: #ffd700;
   border-radius: 2px;
   position: absolute;
   width: 80px;
@@ -337,13 +337,13 @@
   font-weight: 700;
 }
 .service-content h3 a:hover {
-  color: #f90;
+  color: #ffd700;
 }
 .service-content p {
   margin-bottom: 20px;
 }
 .service-content .read-more {
-  background-color: #f90;
+  background-color: #ffd700;
   clip-path: polygon(0 0, 100% 0%, 90% 100%, 0% 100%);
   border-radius: 2px;
   font-size: 15px;
@@ -403,7 +403,7 @@
   z-index: 1;
 }
 .swiper-outside .swiper-nav:before {
-  background-color: #f90;
+  background-color: #ffd700;
   content: "";
   width: 100%;
   height: 100%;
@@ -443,7 +443,7 @@
   opacity: 1;
 }
 .swiper-pagination span.swiper-pagination-bullet-active {
-  background-color: #f90;
+  background-color: #ffd700;
   box-shadow: 0 0 0 3px rgba(255, 153, 0, 0.5);
 }
 .service-details-info img {
@@ -467,7 +467,7 @@
 }
 .service-features li i {
   font-size: 50px;
-  color: #f90;
+  color: #ffd700;
 }
 .service-features li h3 {
   margin-bottom: 0;
@@ -487,7 +487,7 @@
 }
 .service-icon-list li i {
   font-size: 20px;
-  color: #f90;
+  color: #ffd700;
 }
 .service-icon-list li {
   font-weight: 500;
@@ -509,7 +509,7 @@
   transition: all 0.2s ease-in-out;
 }
 .service-sidebar ul li:hover {
-  background-color: #f90;
+  background-color: #ffd700;
 }
 .service-sidebar ul li:not(:last-of-type) {
   margin-bottom: 10px;
@@ -523,7 +523,7 @@
 }
 .service-sidebar ul li i {
   font-size: 20px;
-  color: #f90;
+  color: #ffd700;
 }
 .service-sidebar ul li:hover i {
   color: #fff;
@@ -537,7 +537,7 @@
   z-index: 1;
 }
 .booking-section:before {
-  background-color: #f90;
+  background-color: #ffd700;
   content: "";
   width: 300px;
   height: 100%;
@@ -595,10 +595,10 @@
   border: 1px solid #333;
 }
 .booking-form .form-field input:focus {
-  border: 1px solid #f90;
+  border: 1px solid #ffd700;
 }
 .booking-form .form-field i {
-  color: #f90;
+  color: #ffd700;
   font-size: 20px;
   position: absolute;
   right: 10px;
@@ -640,7 +640,7 @@
 .nice-select .option:hover,
 .nice-select .option.focus,
 .nice-select .option.selected.focus {
-  background-color: #f90;
+  background-color: #ffd700;
   font-weight: 400;
 }
 .nice-select:after {
@@ -652,8 +652,8 @@
   > div
   > div.xdsoft_current,
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current {
-  background: #f90;
-  box-shadow: #f90 0 1px 3px 0 inset;
+  background: #ffd700;
+  box-shadow: #ffd700 0 1px 3px 0 inset;
 }
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover,
 .xdsoft_datetimepicker .xdsoft_calendar td:hover {
@@ -689,7 +689,7 @@
   overflow: hidden;
 }
 .booking-car-wrap:before {
-  background-color: #f90;
+  background-color: #ffd700;
   background-image: repeating-linear-gradient(
     45deg,
     #f7a20f 0,
@@ -784,7 +784,7 @@
   z-index: 1;
 }
 .pricing-car .price {
-  background-color: #f90;
+  background-color: #ffd700;
   clip-path: polygon(85% 0%, 100% 30%, 100% 100%, 0 100%, 0 0);
   font-size: 20px;
   font-weight: 700;
@@ -861,7 +861,7 @@
   position: relative;
 }
 .taxi-details-img:before {
-  background-color: #f90;
+  background-color: #ffd700;
   background-image: repeating-linear-gradient(
     45deg,
     #f7a20f 0,
@@ -902,7 +902,7 @@
 }
 .taxi-details-img .price i {
   font-size: 25px;
-  color: #f90;
+  color: #ffd700;
   margin-right: 5px;
 }
 .taxi-features {
@@ -924,7 +924,7 @@
   align-items: center;
 }
 .taxi-features li span i {
-  color: #f90;
+  color: #ffd700;
   font-size: 25px;
   margin-right: 5px;
 }
@@ -1170,7 +1170,7 @@
   letter-spacing: -0.5px;
 }
 .quote-icon {
-  background-color: #f90;
+  background-color: #ffd700;
   clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
   font-size: 30px;
   color: #222;
@@ -1208,7 +1208,7 @@
   text-align: left;
 }
 .feature-wrap {
-  background-color: #f90;
+  background-color: #ffd700;
   padding: 110px 40px;
   background-image: repeating-linear-gradient(
     45deg,
@@ -1272,7 +1272,7 @@
   display: block;
 }
 .cta-content .cta-call p a {
-  color: #f90;
+  color: #ffd700;
   font-size: 32px;
   font-weight: 700;
   line-height: 1;
@@ -1284,7 +1284,7 @@
   line-height: 60px;
   text-align: center;
   font-size: 40px;
-  color: #f90;
+  color: #ffd700;
   border-radius: 2px;
 }
 .cta-content h2 {
@@ -1294,7 +1294,7 @@
   margin-bottom: 20px;
 }
 .cta-content h2 span {
-  color: #f90;
+  color: #ffd700;
 }
 .cta-content p {
   font-size: 18px;
@@ -1307,7 +1307,7 @@
   z-index: 1;
 }
 .cta-section-2:before {
-  background-color: #f90;
+  background-color: #ffd700;
   background-image: url(../img/cta-map.png);
   background-repeat: no-repeat;
   background-position: center center;
@@ -1345,7 +1345,7 @@
   background-color: #222;
   clip-path: polygon(15% 0%, 100% 0%, 85% 100%, 0% 100%);
   font-size: 12px;
-  color: #f90;
+  color: #ffd700;
   width: 30px;
   height: 20px;
   line-height: 20px;
@@ -1394,7 +1394,7 @@
   transform: translateX(-50%);
 }
 .team-content h3 a {
-  background-color: #f90;
+  background-color: #ffd700;
   clip-path: polygon(0 0, 100% 0, 100% 70%, 90% 100%, 0 100%);
   background-image: repeating-linear-gradient(
     45deg,
@@ -1451,7 +1451,7 @@
   border-radius: 5px;
 }
 .experience-box {
-  background-color: #f90;
+  background-color: #ffd700;
   background-image: repeating-linear-gradient(
     45deg,
     #f7a20f 0,
@@ -1491,7 +1491,7 @@
   box-shadow: none;
 }
 .taxi-booking-form .form-control:focus {
-  border: 1px solid #f90;
+  border: 1px solid #ffd700;
 }
 .taxi-booking-form .niceSelect {
   width: 100%;
@@ -1515,7 +1515,7 @@
   position: relative;
 }
 .taxi-booking-form .form-field i {
-  color: #f90;
+  color: #ffd700;
   font-size: 20px;
   position: absolute;
   right: 10px;
@@ -1547,7 +1547,7 @@
 }
 .accordion-button:not(.collapsed) {
   color: #fff;
-  background-color: #f90;
+  background-color: #ffd700;
 }
 .accordion-button:not(.collapsed):after {
   background-image: inherit;
@@ -1609,7 +1609,7 @@
   background-image: url(../img/texture.png);
   background-repeat: repeat;
   background-size: cover;
-  color: #f90;
+  color: #ffd700;
   font-size: 15px;
   margin-right: 15px;
   width: 50px;
@@ -1632,7 +1632,7 @@
   outline: none;
 }
 .contact-form-group .form-field .form-control:focus {
-  border: 1px solid #f90;
+  border: 1px solid #ffd700;
 }
 .contact-form-group .form-field.message {
   grid-column-end: span 2;
@@ -1678,7 +1678,7 @@ textarea:-ms-input-placeholder {
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 0;
-  background-color: #f90;
+  background-color: #ffd700;
   color: #fff;
   display: inline-block;
   padding: 3px 15px;
@@ -1692,7 +1692,7 @@ textarea:-ms-input-placeholder {
 }
 .branches-list ul li a:hover {
   text-decoration: underline;
-  color: #f90;
+  color: #ffd700;
 }
 .footer-top-wrap {
   background-color: #f4f5f8;
@@ -1753,7 +1753,7 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 .footer-top .footer-call:before {
-  background-color: #f90;
+  background-color: #ffd700;
   background-image: repeating-linear-gradient(
     45deg,
     #f7a20f 0,
@@ -1876,13 +1876,13 @@ textarea:-ms-input-placeholder {
 }
 .footer-contact li span {
   display: block;
-  color: #f90;
+  color: #ffd700;
   font-size: 14px;
   font-weight: 600;
   text-transform: uppercase;
 }
 .footer-links li a:hover {
-  color: #f90;
+  color: #ffd700;
 }
 @media (min-width: 992px) {
   .footer-list {
@@ -1900,7 +1900,7 @@ textarea:-ms-input-placeholder {
   box-shadow: none;
 }
 .subscribe-form .submit {
-  background-color: #f90;
+  background-color: #ffd700;
   clip-path: polygon(0 0, 100% 0%, 85% 100%, 0 100%);
   padding: 0 35px 0 30px;
   height: 45px;

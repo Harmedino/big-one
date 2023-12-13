@@ -43,7 +43,7 @@
 }
 .top-header-nav li a:hover,
 .header-social-share li a:hover {
-  color: #f90;
+  color: #ffd700;
 }
 .top-header-nav {
   min-height: 40px;
@@ -89,7 +89,7 @@
   line-height: 1;
 }
 .header-info li .header-info-text h3 a:hover {
-  color: #f90;
+  color: #ffd700;
 }
 .header-info li .header-info-text h3 span {
   font-size: 14px;
@@ -126,7 +126,7 @@
 }
 .sticky-header .menu-right-item .sidebox-icon:hover,
 .sticky-header .menu-right-item .search-icon:hover {
-  color: #f90;
+  color: #ffd700;
 }
 .sticky-header .menu-right-item .sidebox-icon,
 .sticky-header .menu-right-item .search-icon {
@@ -219,7 +219,7 @@
     z-index: 1;
   }
   .nav-menu-inner:before {
-    background-color: #f90;
+    background-color: #ffd700;
     clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 1% 100%);
     content: "";
     position: absolute;
@@ -344,7 +344,7 @@
     display: none;
   }
   .header-menu-wrap li li > a:hover {
-    color: #f90;
+    color: #ffd700;
   }
   .header-menu-wrap li ul li ul {
     width: 220px;
@@ -395,7 +395,7 @@
     color: #222;
   }
   .sticky-fixed-top .header-menu-wrap ul li li > a:hover {
-    color: #f90;
+    color: #ffd700;
   }
   .sticky-fixed-top .menu-right-item .menu-btn {
     height: auto;
@@ -523,7 +523,7 @@
     font-size: 14px;
   }
   .header-menu-wrap li li:hover > a {
-    color: #f90;
+    color: #ffd700;
   }
   .header-menu-wrap ul li > a:before {
     display: none;
@@ -623,7 +623,7 @@
 }
 #popup-search-box .box-inner-wrap input:focus {
   outline: none;
-  border: 1px solid #f90;
+  border: 1px solid #ffd700;
 }
 #popup-search-box .box-inner-wrap button {
   position: absolute;
@@ -644,7 +644,7 @@
   transition: 500ms ease all;
 }
 #popup-search-box .box-inner-wrap button:hover {
-  color: #f90;
+  color: #ffd700;
 }
 #popup-search-box .box-inner-wrap button:focus {
   outline: none;
@@ -661,7 +661,7 @@
   transition: all 0.3s cubic-bezier(0.165, 0.85, 0.45, 1);
 }
 .search-close:hover {
-  color: #f90;
+  color: #ffd700;
   transform: scale(1.1);
 }
 .popup-sidebox {
@@ -729,7 +729,7 @@
     color: #fff;
   }
   .sidebox-content .sidebox-list li.call {
-    color: #f90;
+    color: #ffd700;
     font-size: 28px;
     font-weight: 700;
   }

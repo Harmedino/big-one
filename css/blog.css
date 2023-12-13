@@ -29,7 +29,7 @@
   margin-right: 10px;
 }
 .post-meta li i {
-  color: #f90;
+  color: #ffd700;
   font-size: 15px;
   margin-right: 5px;
 }
@@ -66,7 +66,7 @@
   padding-left: 30px;
 }
 .post-card .post-content .read-more:before {
-  background-color: #f90;
+  background-color: #ffd700;
   position: absolute;
   content: "";
   width: 25px;
@@ -75,7 +75,7 @@
   top: calc(50% - 1px);
 }
 .post-card .post-content .read-more:hover {
-  color: #f90;
+  color: #ffd700;
 }
 .classic-post .post-card .post-thumb {
   min-height: 350px;
@@ -93,7 +93,7 @@
   margin-bottom: 30px;
 }
 .post-category {
-  background-color: #f90;
+  background-color: #ffd700;
   clip-path: polygon(85% 0%, 100% 30%, 100% 100%, 0 100%, 0 0);
   position: absolute;
   left: 0;
@@ -135,7 +135,7 @@ blockquote {
   background-color: #fff;
   padding: 40px;
   border: 1px solid #eee;
-  border-left: 3px solid #f90;
+  border-left: 3px solid #ffd700;
   font-size: 24px;
   line-height: 32px;
   font-weight: 500;
@@ -145,7 +145,7 @@ blockquote {
   margin-bottom: 40px;
 }
 blockquote i.fas {
-  color: #f90;
+  color: #ffd700;
   display: block;
   margin-bottom: 20px;
 }
@@ -226,7 +226,7 @@ blockquote span {
   display: inline-block;
 }
 .social-icon li a:hover {
-  color: #f90;
+  color: #ffd700;
 }
 .social-icon li:not(:last-of-type) {
   margin-right: 10px;
@@ -244,7 +244,7 @@ blockquote span {
   line-height: 1;
 }
 .comment-title:before {
-  background-color: #f90;
+  background-color: #ffd700;
   width: 50%;
   height: 4px;
   position: absolute;
@@ -363,7 +363,7 @@ blockquote span {
   line-height: 1;
 }
 .widget-title h3:before {
-  background-color: #f90;
+  background-color: #ffd700;
   width: 50%;
   height: 4px;
   position: absolute;
@@ -396,7 +396,7 @@ blockquote span {
   text-align: center;
 }
 .category-list li:hover span {
-  background-color: #f90;
+  background-color: #ffd700;
   color: #fff;
   transition: all 0.3s ease;
 }
@@ -447,7 +447,7 @@ blockquote span {
   line-height: 1;
 }
 .thumb-post .thumb-post-info .date i {
-  color: #f90;
+  color: #ffd700;
   margin-right: 5px;
 }
 .tags li {
@@ -464,7 +464,7 @@ blockquote span {
   margin: 0 3px 10px 0;
 }
 .tags li a:hover {
-  background-color: #f90;
+  background-color: #ffd700;
   color: #fff;
 }
 .sidebar-widget.banner {
@@ -483,7 +483,7 @@ blockquote span {
   color: #fff;
 }
 .banner-info h3 span {
-  color: #f90;
+  color: #ffd700;
 }
 .banner-info p {
   color: #ddd;
@@ -493,7 +493,7 @@ blockquote span {
   margin-bottom: 20px;
 }
 .banner-info .discount span {
-  color: #f90;
+  color: #ffd700;
   font-size: 50px;
 }
 .banner-info .default-btn:hover {
@@ -520,8 +520,8 @@ blockquote span {
 }
 .pagination-wrap li a:hover,
 .pagination-wrap li a.active {
-  background-color: #f90;
-  border: 1px solid #f90;
+  background-color: #ffd700;
+  border: 1px solid #ffd700;
   color: #fff;
 }
 @media (max-width: 992px) {
